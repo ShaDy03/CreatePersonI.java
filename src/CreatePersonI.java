@@ -36,6 +36,7 @@ public class CreatePersonI {
         NameTF.setText("");
         SecondNameTF.setText("");
     }
+    //am adaugat ceva
     public JPanel GetPanel(){
         return panel1;
     }
